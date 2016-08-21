@@ -15,7 +15,6 @@
 
 | S.no | Excercise |
 | ------------- | ------------- |
-
 | Lab 0. | [Setting up client tools](0. Setting up client tools.md) |
 | Lab 1. | [Creating an application from an existing Docker Image using CLI](1. Create App From a Docker Image.md) |
 | Lab 2. | [Create an application using Docker Build Strategy using CLI ](2. Create App Using Docker Build.md) |

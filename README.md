@@ -11,6 +11,6 @@
 | 12:00 am  | Lunch   | 
 | 12:30 am  | Workshop   | 
 
-## Workshop items    
+## Workshop items 
 
-0. Table of Contents.md
+

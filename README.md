@@ -1,5 +1,5 @@
 
-## Agenda
+*Agenda*
 
 | Time  | Activity |
 | ------------- | ------------- |
@@ -11,7 +11,8 @@
 | 12:00 am  | Lunch   | 
 | 12:30 am  | Workshop   | 
 
-## Lab Exercises Table of Contents 
+
+*Lab Exercises Table of Contents*
 
 | S.no | Excercise |
 | ------------- | ------------- |
